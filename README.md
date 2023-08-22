@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... machines, fitness and technology
 - 🌱 I’m currently learning ... android development and java development 
 - 💞️ I’m looking to collaborate on ... android projects
-- 📫 How to reach me ...hb13april2002@gmail.com
+- 📫 How to reach me ...bansal.worknedu@gmail.com
 
 <!---
 bansalji02/bansalji02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
